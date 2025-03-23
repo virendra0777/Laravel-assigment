@@ -25,8 +25,9 @@ php artisan db:seed
 
 ```
 For passport client token use
+```
 php artisan passport:client --personal
 ```
 And Run the project
-php artisan serve
 ```
+php artisan serve
